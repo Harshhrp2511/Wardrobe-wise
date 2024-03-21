@@ -1,1 +1,1 @@
-A website for clothes 
+A website for sports outfits
