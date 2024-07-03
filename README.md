@@ -1,1 +1,1 @@
-A website for sports outfits using html, css and javascript
+A simple website for sports outfits using html, css and javascript
